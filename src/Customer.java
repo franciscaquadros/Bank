@@ -32,7 +32,7 @@ public class Customer {
         SavingsAccount account = new SavingsAccount(accountNumber, 0);
         this.savingsAccounts.add(account.getAccountNumber());
     }
-    
+
 
 
 
